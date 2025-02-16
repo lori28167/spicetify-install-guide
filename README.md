@@ -4,8 +4,8 @@
 ```bash
 iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex
 ```
-   if it asks for something just press enter.
-5. open spotify after it installed.
-6. Open the shopping cart near the searh bar.
-7. search for adblockify extension.
-8. then install whatever you want to make your spotify better
+<p>if it asks for something just press enter.</p>
+<p>5. open spotify after it installed.</p>
+<p>6. Open the shopping cart near the searh bar.</p>
+<p>7. search for adblockify extension.</p>
+<p>8. then install whatever you want to make your spotify better</p>
